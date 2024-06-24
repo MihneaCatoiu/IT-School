@@ -1,4 +1,4 @@
-package session_5_advanced_flow_control.practice;
+package session_5_advanced_flow_control.practice.practice;
 
 import java.util.ArrayList;
 import java.util.List;

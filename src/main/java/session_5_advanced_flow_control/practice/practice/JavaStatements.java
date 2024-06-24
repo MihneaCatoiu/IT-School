@@ -1,4 +1,4 @@
-package session_5_advanced_flow_control.practice;
+package session_5_advanced_flow_control.practice.practice;
 
 public class JavaStatements {
 
