@@ -3,7 +3,7 @@ package session_7_utility_classes.challenge;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class challenge2 {
+public class Challenge2 {
     public static void displayDateComponents(String dateStr) {
         LocalDate date = LocalDate.parse(dateStr);
 

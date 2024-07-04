@@ -5,7 +5,7 @@ public class Challenge1 {
         String[] shoppingList = {"Apples", "Mango", "Pineapple"};
         System.out.println("Shopping list is: ");
         for (int i = 0; i < shoppingList.length; i++) {
-            System.out.println((i + 1) + " . " + shoppingList[i]);
+            System.out.println((i + 1) + ". " + shoppingList[1]);
         }
     }
 }

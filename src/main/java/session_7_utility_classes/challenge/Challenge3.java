@@ -2,7 +2,7 @@ package session_7_utility_classes.challenge;
 
 import java.time.LocalDate;
 
-public class challenge3 {
+public class Challenge3 {
     public static LocalDate createSpecificDate() {
         LocalDate specificDate = LocalDate.of(2025, 8, 19);
         return specificDate;
