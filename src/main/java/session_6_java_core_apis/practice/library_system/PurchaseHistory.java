@@ -4,5 +4,4 @@ import java.util.List;
 
 public class PurchaseHistory {
 
-    private List<Product> products
 }
